@@ -43,6 +43,8 @@ for installing dependecies:
 
 [Gensim word2vec model document](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html)
 
+[Migrating-from-Gensim-3.x-to-4](https://github.com/RaRe-Technologies/gensim/wiki/Migrating-from-Gensim-3.x-to-4)
+
 [Evaluation example](https://github.com/tomcohen13/BERT)
 
 [Bat evaluation](https://vecto.space/projects/BATS)
